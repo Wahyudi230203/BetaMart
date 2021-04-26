@@ -1,0 +1,10 @@
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.Form1.resources
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.Properties.Resources.resources
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.csproj.GenerateResource.Cache
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\bin\Debug\mydb.accdb
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.csprojResolveAssemblyReference.cache
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.exe
+D:\Kelas XI\KK-3\Tugas HL\CRUD\CRUD\obj\x86\Debug\CRUD.pdb
